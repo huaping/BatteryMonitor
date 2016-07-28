@@ -24,6 +24,6 @@ then connect to listen the port
 
 adb tcpip 5555
 
-adb connect <IP>:5555
+adb connect IP:5555
 
 
